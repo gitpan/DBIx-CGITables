@@ -1,6 +1,0 @@
-%RGV PreserveCase=1
-%T die_on_bad_params=0
-!DataSource=dbi:mysql:test:localhost
-!Username=testuser
-!Password=testpass
-!Table=testtable

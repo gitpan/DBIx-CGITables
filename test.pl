@@ -11,9 +11,6 @@ END {print "not ok 1\n" unless $loaded;}
 use DBIx::CGITables;
 $loaded = 1;
 print "ok 1\n";
-print "I don't have the time making test subs due to deadlines.  Sorry!!
-you might take a peek at the test/ directory to see how things are supposed
-to work out.\n"
 
 ######################### End of black magic.
 
@@ -21,3 +18,4 @@ to work out.\n"
 # (correspondingly "not ok 13") depending on the success of chunk 13
 # of the test code):
 
+print "This module is still under development, and I still haven't had time making a proper automatic test routine.  Sorry!\n";
