@@ -11,7 +11,9 @@ END {print "not ok 1\n" unless $loaded;}
 use DBIx::CGITables;
 $loaded = 1;
 print "ok 1\n";
-print "I don't have the time making test subs due to deadlines.  Sorry!!\n"
+print "I don't have the time making test subs due to deadlines.  Sorry!!
+you might take a peek at the test/ directory to see how things are supposed
+to work out.\n"
 
 ######################### End of black magic.
 

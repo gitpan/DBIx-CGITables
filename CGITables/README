@@ -1,12 +1,13 @@
-Last updated 2000.01.27 18:24 - for DBIx::CGITables 0.00
+Last updated 2000.01.31 04:10 CET - for DBIx::CGITables 0.00001
 						      
-README
-This is WORK IN CONSTRUCTION.  Currently only the POD is available.  I'm
-posting this because I hope to get some comments about it.
+README  	(updated for 0.00001)
+This is WORK UNDER CONSTRUCTION.  I just tested it, and the module
+itself works locally.  I encourage everybody that's interessted in
+setting up web based databases to have a look at this module.
 
-If you desperately need a working web based database module today, I do have
-the previous version of this module.  Anyway, I decided to do this from
-scratch - and I have a deadline in only one week!!
+I do have a deadline to next monday for getting some usable databases
+at the web - but I guess it's efficiently forwarded one week due to
+Linux World Expo.
 
 DESCRIPTION
 The intention behind DBIx::CGITables is to allow a very easy way to put up
@@ -26,5 +27,7 @@ mail ;)
 
 AUTHOR
 Tobias Brox <tobix@irctos.org> 
-I will eventually put up a mailing list, but as of today just send me a
-personal mail if you have comments..
+
+I will eventually put up a mailing list, but as of today just send me
+a personal mail if you have comments.  I'd appreciate any feedback,
+including flames.

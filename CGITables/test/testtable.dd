@@ -1,0 +1,20 @@
+# MySQL dump 6.6
+#
+# Host: localhost    Database: test
+#--------------------------------------------------------
+# Server version	3.23.6-alpha-log
+
+#
+# Table structure for table 'testtable'
+#
+CREATE TABLE testtable (
+  id int(11) NOT NULL auto_increment,
+  PRIMARY KEY (id)
+);
+
+#
+# Dumping data for table 'testtable'
+#
+
+INSERT INTO testtable (id) VALUES (30);
+

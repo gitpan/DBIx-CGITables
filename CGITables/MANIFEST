@@ -1,0 +1,12 @@
+CGITables.pm
+Changes
+MANIFEST
+README
+Makefile.PL
+test.pl
+test
+test/README
+test/database.cgi
+test/testtable.dd
+test/web.testtable.db3
+test/web.testtable.param.db3
