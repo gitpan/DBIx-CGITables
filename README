@@ -1,0 +1,30 @@
+Last updated 2000.01.27 18:24 - for DBIx::CGITables 0.00
+						      
+README
+This is WORK IN CONSTRUCTION.  Currently only the POD is available.  I'm
+posting this because I hope to get some comments about it.
+
+If you desperately need a working web based database module today, I do have
+the previous version of this module.  Anyway, I decided to do this from
+scratch - and I have a deadline in only one week!!
+
+DESCRIPTION
+The intention behind DBIx::CGITables is to allow a very easy way to put up
+cgi-based databases.  The intention is that anyone running a webserver might
+feed a template generating script with the DD code, use two-five minutes
+configurating the CGI and the web server, and then be able to access the
+complete database from the web!  Further on, anyone spending some more days
+of tuning should be able to generate an easy-to-use, nice looking
+specialized database on the net.
+
+LICENSE
+The Artistic License applies at mondays, and the GNU Public License the rest
+of the week.  If you incorporate this module in a commercial product at a
+tuesday without asking me for permission, I might sue you.  Err, probably
+not. Anyway, if you have problems due to the licensing, please send me a
+mail ;)
+
+AUTHOR
+Tobias Brox <tobix@irctos.org> 
+I will eventually put up a mailing list, but as of today just send me a
+personal mail if you have comments..
